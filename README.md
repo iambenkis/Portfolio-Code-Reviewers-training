@@ -8,7 +8,6 @@
 
 * HTML
 * CSS
-* Javascript
 
 ## Getting Started
 
@@ -16,16 +15,16 @@
 
 To get a local copy up and running follow these simple example steps.
 
-* copy this link ```https://github.com/iambenkis/Portfolio.git```
+* copy this link ```https://github.com/iambenkis/Portfolio-Code-Reviewers-training.git```
 * Get the directory that you want to clone the repository.
 * Open the command prompt in this directory.
-* Clone by using this command : ```git clone https://github.com/iambenkis/Portfolio.git```
+* Clone by using this command : ```git clone https://github.com/iambenkis/Portfolio-Code-Reviewers-training.git```
 * Got to the cloned folder in your prompt command using ```cd Portfolio```
 * Run the code
-* Send a message so that we can collect your Data using [```Fornspree Service```](https://formspree.io/html)
 
 ### Prerequisites
-Figma HTML CSS JavaScript
+
+Figma HTML CSS
 
 ### Setup
 
