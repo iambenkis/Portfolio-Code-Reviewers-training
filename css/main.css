@@ -256,6 +256,14 @@ li {
   cursor: pointer;
 }
 
+.form_list li {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .project-stacks li:hover {
   background: rgba(0, 0, 0, 0.349);
 }
@@ -325,6 +333,7 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
 .contact_form {
   display: flex;
   flex-direction: column;
@@ -354,14 +363,6 @@ li {
   width: calc(100vw - 48px);
   margin-bottom: 100px;
   margin-left: 24px;
-}
-
-.form_list li {
-  list-style-type: none;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .form_list input {
